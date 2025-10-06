@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Otávio Lima
 
-<!--
-**otavio-limac/otavio-limac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```Full Stack Developer | Passionate about Technology 🚀```
 
-Here are some ideas to get you started:
+I’m currently studying Full Stack Development. Always curious and focused on learning how things work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stacks  
+[![My Skills](https://skillicons.dev/icons?i=ts,java,spring,react,tailwind,express,nodejs,mongodb,mysql,git,github,docker)](https://skillicons.dev)
+
+---
+
+## 🎥 Where to find me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/limasc7_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-lima-40a511349/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/otaviolimac)
+
+---
+
+### 🗣️ Languages  
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) Native Portuguese  
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) Intermediate English
+
+---
+
+## 📬 Contact
+
+📧 otavio.lima.co@gmail.com
